@@ -1,2 +1,2 @@
-#!/bon/bash
-uchmod ug+x,hello
+#!/bin/bash
+chmod ug+x,o+r hello
